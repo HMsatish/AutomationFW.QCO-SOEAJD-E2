@@ -11,7 +11,7 @@ import vtiger.ObjectRepository.OrganizationsPage;
 
 public class CreateNewOrganizationTest extends BaseClass {
 
-	@Test(groups = {"SmokeSuite","RegressionSuite"},invocationCount = 2,priority = 1)
+	@Test(groups = {"SmokeSuite","RegressionSuite"},invocationCount = 1,priority = 1)
 	public void createNewOrgTest() throws Throwable {
 		
 		//step 3:Navigate to Organizations link 

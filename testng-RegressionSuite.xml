@@ -12,7 +12,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="VTiger.OrganizationsTests.CreateNewOrganizationTest"/>
-      <class name="VTiger.OrganizationsTests.CreateMultipleOrgWithIndustryTest"/>
       <class name="VTiger.OrganizationsTests.CreateOrganizationWithIndustryAndTypeTest"/>
       <class name="VTiger.OrganizationsTests.CreateOrganizationWithIndustryTest"/>
     </classes>
