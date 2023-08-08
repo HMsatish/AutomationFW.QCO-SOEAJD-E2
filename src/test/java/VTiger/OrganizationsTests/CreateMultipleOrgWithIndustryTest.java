@@ -25,7 +25,7 @@ public class CreateMultipleOrgWithIndustryTest extends BaseClass{
 				//step 4:Click on Create Organization look Up Image 
 				OrganizationsPage op = new OrganizationsPage(driver);
 				op.clickOnCreateOrgLookUpImg();
-				System.out.println("hi");
+				System.out.println("hell");
 								
 				//step 5:Create Organization with Mandatory fields And Select "Energy" in the industry drop down and Select "Customer" in the Type Drop down
 				String ORGNAME =ORG+jUtil.getRamdomNumber();
