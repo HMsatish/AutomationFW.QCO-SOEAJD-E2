@@ -1,0 +1,16 @@
+vtiger\GenericUtilities\RetryAnalyserImplementation.class
+vtiger\ObjectRepository\ContactInfoPage.class
+vtiger\ObjectRepository\CreateNewOrganizationPage.class
+vtiger\ObjectRepository\CreateNewContactPage.class
+vtiger\ObjectRepository\OrganizationsPage.class
+vtiger\ObjectRepository\HomePage.class
+vtiger\GenericUtilities\ConstantsUtility.class
+vtiger\GenericUtilities\BaseClass.class
+vtiger\GenericUtilities\PropertyFileUtility.class
+vtiger\ObjectRepository\LoginPage.class
+vtiger\GenericUtilities\JavaUtility.class
+vtiger\ObjectRepository\ContactsPage.class
+vtiger\ObjectRepository\OrganizationInfoPage.class
+vtiger\GenericUtilities\ListenersImplementationClass.class
+vtiger\GenericUtilities\WebDriverUtility.class
+vtiger\GenericUtilities\ExcelFileUtility.class

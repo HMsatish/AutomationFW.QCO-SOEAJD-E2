@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" preserve-order="false">
+    <classes>
+      <class name="VTiger.OrganizationsTests.CreateNewOrganizationTest"/>
+      <class name="VTiger.OrganizationsTests.CreateOrganizationWithIndustryTest"/>
+      <class name="VTiger.ContactsTests.CreateNewContactTest"/>
+      <class name="VTiger.OrganizationsTests.CreateOrganizationWithIndustryAndTypeTest"/>
+      <class name="VTiger.OrganizationsTests.CreateMultipleOrgWithIndustry"/>
+      <class name="VTiger.ContactsTests.CreateContactWithOrganizationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
